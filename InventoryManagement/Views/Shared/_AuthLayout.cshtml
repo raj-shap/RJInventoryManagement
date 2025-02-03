@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>@ViewData["Title"] - InventoryManagement</title>
+	<PageTitle value=></PageTitle>
+	@* <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" /> *@
+	@* <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" /> *@
+	@* <link rel="stylesheet" href="~/InventoryManagement.styles.css" asp-append-version="true" /> *@
+	<link rel="stylesheet" href="~/css/auth.css" asp-append-version="true" />
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" rel="stylesheet" />
+</head>
+<body>
+	<div class="container">
+		<main role="main" class="pb-3">
+			@RenderBody()
+		</main>
+	</div>
+
+	<footer class="border-top footer text-muted">
+		<div class="container">
+			@* First Row: Newsletter Section *@
+			<div class="footer-row">
+				<div class="newsletter-content">
+					<h3>Newsletter</h3>
+					<p>Subscribe to our newsletter to get the latest updates.</p>
+				</div>
+				<div class="newsletter-from">
+					<input type="email" placeholder="Your Email" id="email" />
+					<button type="submit">Subscribe</button>
+				</div>
+			</div>
+
+			@* Second Row: Copyright and social media *@
+			<div class="footer-row">
+				<div class="copyright">
+					<p>&copy; 2025 Rj Inc. All rights reserved.</p>
+				</div>
+				<div class="social-media">
+					<a href="#" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+					<a href="#" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+					<a href="#" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+					<a href="#" target="_blank"><i class="fa-brands fa-threads"></i></a>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<script src="~/lib/jquery/dist/jquery.min.js"></script>
+	<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="~/js/site.js" asp-append-version="true"></script>
+	@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
