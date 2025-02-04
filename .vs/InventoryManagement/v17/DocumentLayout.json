@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\inventorymanagement\\inventorymanagement\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\inventorymanagement\\inventorymanagement\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\inventorymanagement\\inventorymanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\inventorymanagement\\inventorymanagement\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\inventorymanagement\\inventorymanagement\\repositories\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\repositories\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\inventorymanagement\\inventorymanagement\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\inventorymanagement\\inventorymanagement\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\inventorymanagement\\inventorymanagement\\wwwroot\\css\\auth.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\wwwroot\\css\\auth.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\inventorymanagement\\inventorymanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\inventorymanagement\\inventorymanagement\\helpers\\responsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\helpers\\responsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\inventorymanagement\\inventorymanagement\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\inventorymanagement\\inventorymanagement\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\inventorymanagement\\inventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\inventorymanagement\\inventorymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\inventorymanagement\\inventorymanagement\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\inventorymanagement\\inventorymanagement\\helpers\\authhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\helpers\\authhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\inventorymanagement\\inventorymanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagement\\Views\\Shared\\_AuthLayout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeToolTip": "InventoryManagement\\Views\\Shared\\_AuthLayout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAC4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T19:09:47.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Repositories\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "InventoryManagement\\Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T13:28:49.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuth.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Repositories\\IAuth.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Repositories\\IAuth.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Repositories\\IAuth.cs",
+              "RelativeToolTip": "InventoryManagement\\Repositories\\IAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:03:00.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "InventoryManagement\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T07:34:45.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagement\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "InventoryManagement\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T17:38:53.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Services\\AuthService.cs",
+              "RelativeToolTip": "InventoryManagement\\Services\\AuthService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAewBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T13:17:44.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Models\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Models\\ServiceResponse.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Models\\ServiceResponse.cs",
+              "RelativeToolTip": "InventoryManagement\\Models\\ServiceResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T13:18:47.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "auth.css",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\wwwroot\\css\\auth.css",
+              "RelativeDocumentMoniker": "InventoryManagement\\wwwroot\\css\\auth.css",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\wwwroot\\css\\auth.css",
+              "RelativeToolTip": "InventoryManagement\\wwwroot\\css\\auth.css",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-03T03:57:26.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InventoryManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T19:04:47.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResponseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Helpers\\ResponseHelper.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Helpers\\ResponseHelper.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Helpers\\ResponseHelper.cs",
+              "RelativeToolTip": "InventoryManagement\\Helpers\\ResponseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:24:31.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "InventoryManagement\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:04:53.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Program.cs",
+              "RelativeToolTip": "InventoryManagement\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:44:24.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "InventoryManagement\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:40:26.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Views\\Auth\\Index.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagement\\Views\\Auth\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Views\\Auth\\Index.cshtml",
+              "RelativeToolTip": "InventoryManagement\\Views\\Auth\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T17:38:17.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "InventoryManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\appsettings.json",
+              "RelativeToolTip": "InventoryManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T18:43:01.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthHelper.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Helpers\\AuthHelper.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Helpers\\AuthHelper.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Helpers\\AuthHelper.cs",
+              "RelativeToolTip": "InventoryManagement\\Helpers\\AuthHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T13:40:44.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\InventoryManagement\\InventoryManagement\\Models\\User.cs",
+              "RelativeToolTip": "InventoryManagement\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T07:41:06.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

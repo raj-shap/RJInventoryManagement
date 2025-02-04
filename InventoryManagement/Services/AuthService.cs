@@ -18,12 +18,17 @@ namespace InventoryManagement.Services
         {
             if (userDTO == null)
             {
-                return new ServiceResponse { Success = false, Message = "Invalid User Data. Data is null" };
+                var error = new ServiceResponse { Success = false, Message = "Invalid User Data. Data is null" };
+                Console.WriteLine($"Error : {error}");
+                return error;
             }
-            var existingUser = await _authRepository.GetUserByEmail(userDTO.Email);
-            if(existingUser != null)
+            var existingUser =  _authRepository.GetUserByEmail(userDTO.Email);
+            if (existingUser != null)
             {
-                return new ServiceResponse { Success = false, Message = "User already registered with this email." };
+                
+                var error = new ServiceResponse { Success = false, Message = "User already registered with this email." };
+                Console.WriteLine($"Error : {error}");
+                return error;
             }
 
             var newUser = new User
@@ -37,7 +42,9 @@ namespace InventoryManagement.Services
             };
 
             await _authRepository.Register(newUser);
-            return new ServiceResponse { Success = true, Message = "User Registered Successfully" };
+            var success = new ServiceResponse { Success = true, Message = "User Registered Successfully" };
+            Console.WriteLine($"Error : {success}");
+            return success;
         }
     }
 }

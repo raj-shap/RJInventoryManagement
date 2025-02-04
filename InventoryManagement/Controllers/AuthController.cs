@@ -24,10 +24,15 @@ namespace InventoryManagement.Controllers
             return View();
         }
         [HttpPost]  
-        public async Task<IActionResult> Register(UserDTO userDto)
+        public  IActionResult Register(UserDTO userDto)
         {
-            await _authService.Registeration(userDto);
-            return RedirectToAction("Index","Home");
+            var status = _authService.Registeration(userDto);
+            if (status.Result.Success == false)
+            {
+                TempData["status"] = status.Result.Message;
+                return View();
+            }
+                return RedirectToAction("Index","Home");
         }
 
     }

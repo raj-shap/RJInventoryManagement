@@ -1,5 +1,7 @@
 ﻿using InventoryManagement.Context;
 using InventoryManagement.Models;
+using Microsoft.AspNetCore.Http.HttpResults;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace InventoryManagement.Repositories
@@ -12,9 +14,9 @@ namespace InventoryManagement.Repositories
             _context = context;
         }
 
-        public async Task<User> GetUserByEmail(string email)
+        public User GetUserByEmail(string email)
         {
-            return await _context.Users.FirstOrDefaultAsync(u => u.Email == email);
+            return _context.Users.FirstOrDefault(u => u.Email == email);
         }
 
         public async Task Register(User user)

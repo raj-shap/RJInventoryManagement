@@ -13,10 +13,12 @@ namespace InventoryManagement.Helpers
 
         public static ResponseHelper SuccessMessage(string message = "Operation Successful")
         {
+            Console.WriteLine($"Message : {message}");
             return new ResponseHelper(true, message);
         }
         public static ResponseHelper FailureMessage(string message = "Operation Failed")
         {
+            Console.WriteLine($"Message : {message}");
             return new ResponseHelper(false, message);  
         }
     }
