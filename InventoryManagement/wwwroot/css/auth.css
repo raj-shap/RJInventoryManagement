@@ -77,13 +77,42 @@ ul li{
 
 /*##################### body Content #####################*/
 /*START*/
+.registeration-form{
+    /* min-height: 100vh; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #16a083;
+    padding: 3rem;
+}
+
 .page-wrapper{
     display:flex;
     flex-direction:column;
     min-height:100vh;
 }
-
 /*END*/
+/*##################### body Content #####################*/
+
+.form{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.form-header{
+    text-align:center;
+    margin-bottom:2em;
+}
+
+.form-title {
+    color: #3C7073;
+    font-size: 4em;
+}
+
+.form-group {
+    font-size: 1.6rem;
+}
 
 
 /*##################### footer #####################*/
@@ -92,6 +121,10 @@ ul li{
 footer {
     color: #333;
 }
+/*
+footer .container{
+    max-width: 95%;
+}*/
 
 .line{
     border-color:rgba(0,0,0,0.1);

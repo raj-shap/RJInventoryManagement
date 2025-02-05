@@ -4,28 +4,28 @@
 	Layout = "~/Views/Shared/_AuthLayout.cshtml";
 	ViewData["Title"] = "Registration";
 }
-<div class="card">
-	<div class="card-header">
-		<h3 class="card-title">Registration</h3>
-	</div>
-	<br />
+<div class="container form">
 	<div class="card-body">
 		<div class="row">
 			<div action="col-md-12">
-				@if(TempData["status"]!= null){
+				@if (TempData["status"] != null)
+				{
 					<span style="color:red;">@TempData["status"]</span>
 				}
+				<div class="form-header">
+					<h3 class="form-title">Registration</h3>
+				</div>
 				<form method="post" asp-action="Register" asp-controller="Auth">
 
 					<div class="form-group">
 						<label class="control-label" asp-for="FirstName"></label>
-						<input class="form-control" asp-for="FirstName" required/>
+						<input class="form-control" asp-for="FirstName" required />
 						<span asp-validation-for="FirstName" class="text-danger"></span>
 					</div>
 					<br />
 					<div class="form-group">
 						<label class="control-label" asp-for="LastName"></label>
-						<input class="form-control" asp-for="LastName" required/>
+						<input class="form-control" asp-for="LastName" required />
 						<span asp-validation-for="LastName" class="text-danger"></span>
 					</div>
 					<br />
@@ -37,17 +37,17 @@
 					<br />
 					<div class="form-group">
 						<label class="control-label" asp-for="Email"></label>
-						<input class="form-control" asp-for="Email" required/>
+						<input class="form-control" asp-for="Email" required />
 						<span asp-validation-for="Email" class="text-danger"></span>
 					</div>
 					<br />
 					<div class="form-group">
 						<label class="control-label" asp-for="Password"></label>
-						<input class="form-control" type="password" asp-for="Password" required/>
+						<input class="form-control" type="password" asp-for="Password" required />
 						<span asp-validation-for="Password" class="text-danger"></span>
 					</div>
 					<div class="form-group">
-						<input type="submit" value="Sign Up" class="btn btn-primary" />
+						<input type="submit" value="Sign Up" class="btn btn-primary btn-signup" />
 						<a class="btn btn-primary">Sign In</a>
 					</div>
 				</form>
@@ -55,3 +55,64 @@
 		</div>
 	</div>
 </div>
+
+
+@* 
+<div class="container">
+	<div class="registeration-form">
+
+		<form asp-action="Register" method="post" asp-controller="Auth">
+			<div class="login-form">
+				<div class="title">Login</div>
+				<div class="input-boxex">
+					<div class="input-box">
+						<i class="fas fa-envelope"></i>
+						<input type="text" placeholder="Enter your email" required>
+					</div>
+					<div class="input-box">
+						<i class="fas fa-envelope"></i>
+						<input type="password" placeholder="Enter your password" required>
+					</div>
+					<div class="text"><a href="#">Forgot password</a></div>
+					<div class="button input-box">
+						<i class="fas fa-envelope"></i>
+						<input type="submit" value="Submit">
+					</div>
+					<div class="text">Don't have an account? <label for="">Signup now</label></div>
+				</div>
+			</div>
+			<div class="signup-form">
+				<div class="title">sing up</div>
+				<div class="input-boxex">
+					<div class="input-box">
+						<i class="fas fa-envelope"></i>
+						<input type="text" placeholder="Enter first name" required>
+					</div>
+					<div class="input-box">
+						<i class="fas fa-envelope"></i>
+						<input type="text" placeholder="Enter last name" required>
+					</div>
+					<div class="input-box">
+						<i class="fas fa-envelope"></i>
+						<input type="text" placeholder="Enter username" required>
+					</div>
+					<div class="input-box">
+						<i class="fas fa-envelope"></i>
+						<input type="text" placeholder="Enter email" required>
+					</div>
+					<div class="input-box">
+						<i class="fas fa-envelope"></i>
+						<input type="password" placeholder="Enter your password" required>
+					</div>
+					<div class="text"><a href="#">Forgot password</a></div>
+					<div class="button input-box">
+						<i class="fas fa-envelope"></i>
+						<input type="submit" value="Submit">
+					</div>
+					<div class="text">Already have an account? <label for="">Login now</label></div>
+				</div>
+			</div>
+		</form>
+	</div>
+</div>
+ *@
