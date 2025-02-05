@@ -1,6 +1,8 @@
-﻿using InventoryManagement.DTOs;
+﻿using InventoryManagement.Common;
+using InventoryManagement.DTOs;
 using InventoryManagement.Services;
 using Microsoft.AspNetCore.Mvc;
+
 
 namespace InventoryManagement.Controllers
 {
@@ -23,8 +25,17 @@ namespace InventoryManagement.Controllers
         {
             return View();
         }
-        [HttpPost]  
-        public  IActionResult Register(UserDTO userDto)
+        [HttpPost]
+        //public JsonResult Registration(UserDTO userDTO)
+        //{
+        //    if (ModelState.IsValid)
+        //    {
+        //        var result = _authService.Registeration(userDTO);
+        //        return Json(result);
+        //    }
+        //    return Json(new {RedirectToAction = "Registration", Controller="Auth" });
+        //}
+        public IActionResult Register(UserDTO userDto)
         {
             var status = _authService.Registeration(userDto);
             if (status.Result.Success == false)
@@ -32,7 +43,7 @@ namespace InventoryManagement.Controllers
                 TempData["status"] = status.Result.Message;
                 return View();
             }
-                return RedirectToAction("Index","Home");
+            return RedirectToAction("Index", "Home");
         }
 
     }

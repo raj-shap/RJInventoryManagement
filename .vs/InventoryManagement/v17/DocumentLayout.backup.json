@@ -1,74 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\",
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\rj\\source\\repos\\raj-shap\\rjinventorymanagement\\inventorymanagement\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\rjinventorymanagement\\inventorymanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\rjinventorymanagement\\inventorymanagement\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\rj\\source\\repos\\raj-shap\\rjinventorymanagement\\inventorymanagement\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\rj\\source\\repos\\raj-shap\\rjinventorymanagement\\inventorymanagement\\wwwroot\\css\\auth.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\wwwroot\\css\\auth.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\rj\\source\\repos\\raj-shap\\rjinventorymanagement\\inventorymanagement\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\rjinventorymanagement\\inventorymanagement\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\rj\\source\\repos\\raj-shap\\rjinventorymanagement\\inventorymanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\rj\\source\\repos\\raj-shap\\rjinventorymanagement\\inventorymanagement\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\rj\\source\\repos\\raj-shap\\rjinventorymanagement\\inventorymanagement\\repositories\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\repositories\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\rj\\source\\repos\\raj-shap\\rjinventorymanagement\\inventorymanagement\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\rj\\source\\repos\\raj-shap\\rjinventorymanagement\\inventorymanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\rj\\source\\repos\\raj-shap\\rjinventorymanagement\\inventorymanagement\\helpers\\responsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\helpers\\responsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\rj\\source\\repos\\raj-shap\\rjinventorymanagement\\inventorymanagement\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\rjinventorymanagement\\inventorymanagement\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\rj\\source\\repos\\raj-shap\\rjinventorymanagement\\inventorymanagement\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\rjinventorymanagement\\inventorymanagement\\wwwroot\\css\\auth.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\wwwroot\\css\\auth.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\rjinventorymanagement\\inventorymanagement\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\rjinventorymanagement\\inventorymanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\rjinventorymanagement\\inventorymanagement\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\rjinventorymanagement\\inventorymanagement\\repositories\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\repositories\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\rjinventorymanagement\\inventorymanagement\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\rjinventorymanagement\\inventorymanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\rjinventorymanagement\\inventorymanagement\\helpers\\responsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\helpers\\responsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\rjinventorymanagement\\inventorymanagement\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\rj\\source\\repos\\raj-shap\\rjinventorymanagement\\inventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\rjinventorymanagement\\inventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\rj\\source\\repos\\raj-shap\\rjinventorymanagement\\inventorymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\rjinventorymanagement\\inventorymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\rj\\source\\repos\\raj-shap\\rjinventorymanagement\\inventorymanagement\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\rjinventorymanagement\\inventorymanagement\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\rj\\source\\repos\\raj-shap\\rjinventorymanagement\\inventorymanagement\\helpers\\authhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\hp\\source\\repos\\rjinventorymanagement\\inventorymanagement\\helpers\\authhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\helpers\\authhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\rj\\source\\repos\\raj-shap\\rjinventorymanagement\\inventorymanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A99CB5CF-F385-4B5B-A8AC-9A73CEC6ADC0}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,85 +90,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_AuthLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Views\\Shared\\_AuthLayout.cshtml",
-              "RelativeDocumentMoniker": "InventoryManagement\\Views\\Shared\\_AuthLayout.cshtml",
-              "ToolTip": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Views\\Shared\\_AuthLayout.cshtml",
-              "RelativeToolTip": "InventoryManagement\\Views\\Shared\\_AuthLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-02T19:09:47.456Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthRepository.cs",
-              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Repositories\\AuthRepository.cs",
-              "RelativeDocumentMoniker": "InventoryManagement\\Repositories\\AuthRepository.cs",
-              "ToolTip": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Repositories\\AuthRepository.cs",
-              "RelativeToolTip": "InventoryManagement\\Repositories\\AuthRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T13:28:49.149Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IAuth.cs",
-              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Repositories\\IAuth.cs",
-              "RelativeDocumentMoniker": "InventoryManagement\\Repositories\\IAuth.cs",
-              "ToolTip": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Repositories\\IAuth.cs",
-              "RelativeToolTip": "InventoryManagement\\Repositories\\IAuth.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T19:03:00.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Controllers\\AuthController.cs",
               "RelativeToolTip": "InventoryManagement\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T07:34:45.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T07:34:45.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Views\\Auth\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Views\\Auth\\Register.cshtml",
               "RelativeDocumentMoniker": "InventoryManagement\\Views\\Auth\\Register.cshtml",
-              "ToolTip": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Views\\Auth\\Register.cshtml",
               "RelativeToolTip": "InventoryManagement\\Views\\Auth\\Register.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAiwDkAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAWwCAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-02T17:38:53.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Services\\AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Services\\AuthService.cs",
               "RelativeToolTip": "InventoryManagement\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAIAwwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T13:17:44.082Z"
+              "WhenOpened": "2025-02-02T13:17:44.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ServiceResponse.cs",
-              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Models\\ServiceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Models\\ServiceResponse.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Models\\ServiceResponse.cs",
-              "ToolTip": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Models\\ServiceResponse.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Models\\ServiceResponse.cs",
               "RelativeToolTip": "InventoryManagement\\Models\\ServiceResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -176,23 +140,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "auth.css",
-              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\wwwroot\\css\\auth.css",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\wwwroot\\css\\auth.css",
               "RelativeDocumentMoniker": "InventoryManagement\\wwwroot\\css\\auth.css",
-              "ToolTip": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\wwwroot\\css\\auth.css",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\wwwroot\\css\\auth.css",
               "RelativeToolTip": "InventoryManagement\\wwwroot\\css\\auth.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAHAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-02-03T03:57:26.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "InventoryManagement\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "InventoryManagement\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABQAAAAAAAAAAAAAACkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -200,36 +164,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ResponseHelper.cs",
-              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Helpers\\ResponseHelper.cs",
-              "RelativeDocumentMoniker": "InventoryManagement\\Helpers\\ResponseHelper.cs",
-              "ToolTip": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Helpers\\ResponseHelper.cs",
-              "RelativeToolTip": "InventoryManagement\\Helpers\\ResponseHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Models\\User.cs",
+              "RelativeToolTip": "InventoryManagement\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T12:24:31.242Z",
+              "WhenOpened": "2025-02-02T07:41:06.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
+              "Title": "IAuth.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Repositories\\IAuth.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Repositories\\IAuth.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Repositories\\IAuth.cs",
+              "RelativeToolTip": "InventoryManagement\\Repositories\\IAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:03:00.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "InventoryManagement\\Views\\Shared\\_AuthLayout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeToolTip": "InventoryManagement\\Views\\Shared\\_AuthLayout.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T19:09:47.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\DTOs\\UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\DTOs\\UserDTO.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\DTOs\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\DTOs\\UserDTO.cs",
               "RelativeToolTip": "InventoryManagement\\DTOs\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T11:04:53.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
+              "Title": "ResponseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Helpers\\ResponseHelper.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Helpers\\ResponseHelper.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Helpers\\ResponseHelper.cs",
+              "RelativeToolTip": "InventoryManagement\\Helpers\\ResponseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:24:31.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Program.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Program.cs",
               "RelativeToolTip": "InventoryManagement\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -237,11 +237,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Repositories\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "InventoryManagement\\Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T13:28:49.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Context\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Context\\ApplicationDbContext.cs",
               "RelativeToolTip": "InventoryManagement\\Context\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -249,11 +261,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Views\\Auth\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Views\\Auth\\Index.cshtml",
               "RelativeDocumentMoniker": "InventoryManagement\\Views\\Auth\\Index.cshtml",
-              "ToolTip": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Views\\Auth\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Views\\Auth\\Index.cshtml",
               "RelativeToolTip": "InventoryManagement\\Views\\Auth\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -261,11 +273,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\appsettings.json",
               "RelativeDocumentMoniker": "InventoryManagement\\appsettings.json",
-              "ToolTip": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\appsettings.json",
               "RelativeToolTip": "InventoryManagement\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -273,27 +285,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "AuthHelper.cs",
-              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Helpers\\AuthHelper.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Helpers\\AuthHelper.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Helpers\\AuthHelper.cs",
-              "ToolTip": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Helpers\\AuthHelper.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\RJInventoryManagement\\InventoryManagement\\Helpers\\AuthHelper.cs",
               "RelativeToolTip": "InventoryManagement\\Helpers\\AuthHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T13:40:44.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Models\\User.cs",
-              "RelativeDocumentMoniker": "InventoryManagement\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\RJ\\source\\repos\\raj-shap\\RJInventoryManagement\\InventoryManagement\\Models\\User.cs",
-              "RelativeToolTip": "InventoryManagement\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T07:41:06.348Z"
             }
           ]
         }

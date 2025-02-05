@@ -1,11 +1,19 @@
-﻿namespace InventoryManagement.DTOs
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace InventoryManagement.DTOs
 {
     public class UserDTO
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public string UserName { get; set; }
-        public string Email { get; set; }
-        public string Password { get; set; }
+        [Required]
+        public required string FirstName { get; set; }
+        [Required]
+        public required string LastName { get; set; }
+        [Required]
+        public required string UserName { get; set; }
+        [Required]
+        public required string Email { get; set; }
+        [Required]
+        [Range(8,16)]
+        public required string Password { get; set; }
     }
 }
